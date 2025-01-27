@@ -20,11 +20,11 @@
     "basecodeoy/laravel-package-powerpack": "^1.0.0",
     "illuminate/contracts": "^11.0",
     "inertiajs/inertia-laravel": "^2.0.0",
-    "laravel/sanctum": "^4.0.4",
+    "laravel/sanctum": "^4.0.7",
     "spatie/laravel-permission": "^6.10.1"
   },
   "require-dev": {
-    "basecodeoy/standards": "^1.0.5"
+    "basecodeoy/standards": "^1.1.1"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
